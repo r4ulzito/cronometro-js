@@ -17,13 +17,8 @@ function _stop() {
   watchText.innerText = "00:00:00";
   clearInterval(interval);
   hr = 0;
-<<<<<<< HEAD:scripts/index.js
   min = 0;
   sec = 0;
-=======
-  min= 0;
-  sec=0;
->>>>>>> 47fdaf81c08f48df6bb21bd66d4f14568e2a0f33:scripts.js
 }
 
 function twoDigits(digit) {

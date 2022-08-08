@@ -6,7 +6,7 @@
 
 > 🔎 Cronômetro digital com função start, pause e stop
 
-🗔 Confira a aplicação: https://www.linkedin.com/in/raul-de-souza/ <br>
+🗔 Confira a aplicação: https://cronometro-dig-js.netlify.app <br>
 
 ## 📄 Explicação
 
