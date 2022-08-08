@@ -1,7 +1,7 @@
 <h1 align="center">⏱️ CRONÔMETRO DIGITAL</h1>
 
 <div align="center">
-  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+  <img src="https://user-images.githubusercontent.com/97764322/183532526-492b9e81-a95d-4de7-ab38-377900de10a0.gif" alt="gif preview">
 </div>
 
 > 🔎 Cronômetro digital com função start, stop e reset
