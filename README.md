@@ -29,7 +29,8 @@ Nesta aplicação, desenvolvi um cronometro online que funciona com base na fun�
 ✅ Uso da função `setInterval`\
 ✅ Responsividade\
 ✅ Utilização do método `innerText` para alterar o texto de elementos no DOM\
-✅ Uso de variáveis globais no script
+✅ Uso de variáveis globais no script\
+✅ Uso de `:hover` para adição de efeitos nos botões
 
 ## 🤝 Colaboradores
 
