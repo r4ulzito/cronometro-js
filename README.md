@@ -4,30 +4,32 @@
   <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 </div>
 
-> 🔎 Cronômetro digital com função start, pause e stop
+> 🔎 Cronômetro digital com função start, stop e reset
 
 🗔 Confira a aplicação: https://cronometro-dig-js.netlify.app <br>
 
 ## 📄 Explicação
 
-Explicação de como funciona o projeto, os components utilizados, ideia do projeto, etc...
+Nesta aplicação, desenvolvi um cronometro online que funciona com base na função `setInterval` do JavaScript, é possivel pausar e contiuar a cronometrar quuando quiser, assim como resetar o cronometo.
 
 ## 🚀 Tecnologias
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📚 Bibliotecas Usadas
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## 📔 Conhecimentos Utilizados
 
+✅ Estruturação de diretórios\
 ✅ Uso semântico do HTML\
-✅ Integração com a API do TMDB ao usar o `fetch`
+✅ Uso da função `setInterval`\
+✅ Responsividade\
+✅ Utilização do método `innerText` para alterar o texto de elementos no DOM\
+✅ Uso de variáveis globais no script
 
 ## 🤝 Colaboradores
 
